@@ -1,0 +1,1 @@
+If the initial position of the robot is near the wide peak, it stays at the wide peak. But otherwise it moves to the narrow peak
